@@ -4,10 +4,10 @@
     "slug": "loginpage",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "https://cdn-icons-png.flaticon.com/128/5596/5596631.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://cdn-icons-png.flaticon.com/128/5596/5596631.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "https://cdn-icons-png.flaticon.com/128/5596/5596631.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "https://cdn-icons-png.flaticon.com/128/5596/5596631.png"
     }
   }
 }
